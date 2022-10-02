@@ -25,7 +25,7 @@ class HomeCC extends React.Component {
         <TouchableOpacity
           style={styles.btn}
           onPress={() => this.onButtonPress()}>
-          <Text style={styles.btnTitle}>+ Button</Text>
+          <Text style={styles.btnTitle}>add Button</Text>
         </TouchableOpacity>
       </View>
     );
